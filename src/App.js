@@ -1,4 +1,4 @@
-import { ChakraProvider, CSSReset, Container } from "@chakra-ui/react";
+import { ChakraProvider, Container } from "@chakra-ui/react";
 import CourseList from "./components/CourseList";
 import Header from "./components/Header";
 import "./App.css";
@@ -6,8 +6,7 @@ import CourseSummary from "./components/CourseSummary";
 
 function App() {
   return (
-    <ChakraProvider>
-      <CSSReset />
+    <ChakraProvider resetCSS>
       <Container maxW={{ base: "100%", lg: "90%" }} py={2}>
         <Header />
         <CourseSummary />
