@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iclasschima.github.io/%3Crepository-name%3E/static/css/main.dda7e035.css",
-    "main.js": "/iclasschima.github.io/%3Crepository-name%3E/static/js/main.8f67729e.js",
-    "static/js/787.4580df0f.chunk.js": "/iclasschima.github.io/%3Crepository-name%3E/static/js/787.4580df0f.chunk.js",
-    "static/media/Satoshi-Regular.woff2": "/iclasschima.github.io/%3Crepository-name%3E/static/media/Satoshi-Regular.9ec05085c4cd2966eba8.woff2",
-    "static/media/Satoshi-Bold.woff2": "/iclasschima.github.io/%3Crepository-name%3E/static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
-    "index.html": "/iclasschima.github.io/%3Crepository-name%3E/index.html",
-    "main.dda7e035.css.map": "/iclasschima.github.io/%3Crepository-name%3E/static/css/main.dda7e035.css.map",
-    "main.8f67729e.js.map": "/iclasschima.github.io/%3Crepository-name%3E/static/js/main.8f67729e.js.map",
-    "787.4580df0f.chunk.js.map": "/iclasschima.github.io/%3Crepository-name%3E/static/js/787.4580df0f.chunk.js.map"
+    "main.css": "/iclasschima.github.io/Simple-one-page-app/static/css/main.c27f2eed.css",
+    "main.js": "/iclasschima.github.io/Simple-one-page-app/static/js/main.e0ce81f3.js",
+    "static/js/787.4580df0f.chunk.js": "/iclasschima.github.io/Simple-one-page-app/static/js/787.4580df0f.chunk.js",
+    "static/media/Satoshi-Regular.woff2": "/iclasschima.github.io/Simple-one-page-app/static/media/Satoshi-Regular.9ec05085c4cd2966eba8.woff2",
+    "static/media/Satoshi-Bold.woff2": "/iclasschima.github.io/Simple-one-page-app/static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
+    "index.html": "/iclasschima.github.io/Simple-one-page-app/index.html",
+    "main.c27f2eed.css.map": "/iclasschima.github.io/Simple-one-page-app/static/css/main.c27f2eed.css.map",
+    "main.e0ce81f3.js.map": "/iclasschima.github.io/Simple-one-page-app/static/js/main.e0ce81f3.js.map",
+    "787.4580df0f.chunk.js.map": "/iclasschima.github.io/Simple-one-page-app/static/js/787.4580df0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dda7e035.css",
-    "static/js/main.8f67729e.js"
+    "static/css/main.c27f2eed.css",
+    "static/js/main.e0ce81f3.js"
   ]
 }
