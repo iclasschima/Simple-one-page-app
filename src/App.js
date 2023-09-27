@@ -1,7 +1,7 @@
 import { ChakraProvider, CSSReset, Container } from "@chakra-ui/react";
 import CourseList from "./components/CourseList";
 import Header from "./components/Header";
-import "./app.css";
+import "./App.css";
 import CourseSummary from "./components/CourseSummary";
 
 function App() {
